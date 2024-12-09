@@ -110,4 +110,4 @@ body:
   - type: markdown
     attributes:
       value: |
-      > 领取本任务时，请参照[官网文档](https://opengauss.org/zh/download.html)提前安装好openGauss；并将安装且运行成功的截图、您的简历与本任务的开发方案邮件发给导师。导师收到邮件后，会在本任务的issue评论内通过命令反馈评审结果。
+      **领取本任务时，请参照[官网文档](https://opengauss.org/zh/download.html)提前安装好openGauss，并将安装且运行成功的截图、您的简历与本任务的开发方案邮件发给导师。导师收到邮件后，会在本任务的issue评论内通过命令反馈评审结果。**
