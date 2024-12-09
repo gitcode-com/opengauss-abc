@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
       ## 声明
-      '本 issue 为面向高校学生的[开源实习](https://www.openeuler.org/zh/internship/)项目的任务，非参加该项目的人员勿领'
+      本 issue 为面向高校学生的开源实习'<https://www.openeuler.org/zh/internship/>'项目的任务，非参加该项目的人员勿领
   
   - type: input
     attributes:
