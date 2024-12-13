@@ -20,3 +20,4 @@ GitCode 为 Issue 提供了模板能力支持，支持仓库通过模板配置�
 2. 新建 Feat_xxx 分支
 3. 提交代码
 4. 新建 Pull Request
+5.tests
